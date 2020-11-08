@@ -1,0 +1,10 @@
+*.py[cod]
+celerybeat-schedule
+celerybeat-schedule.db
+__pycache__/
+logs/
+!.gitignore
+.DS_Store
+
+
+vosk-model-small-pt-0.3*
