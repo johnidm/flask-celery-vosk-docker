@@ -26,6 +26,11 @@ To shut down:
 docker-compose down
 ```
 
+### Testing with
+
+- Transcribe: `python tests/transcription.py`.
+- Check Status: `python tests/check.py`.
+
 ### References
 
 - https://gitlab.com/sfcarroll/flask-celery-docker
